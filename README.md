@@ -1,2 +1,2 @@
 # lebrochat
-This chat analago (ChatGPT)
+This chat analog (ChatGPT)
